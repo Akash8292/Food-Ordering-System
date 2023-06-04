@@ -23,11 +23,16 @@ with menus and admin ui.The application is built using HTML, CSS, and JavaScript
 1. install Xampp in your machine.
 2. After installation of Xampp , run Apache and MYSQl in Xampp (if MYSQl is already install in your machine ,then you have to first stop
    that MYSQL.)
+   
+   
   Process to stop MYSQL:-
   
    i)
+   
+   
    ![image](https://github.com/Akash8292/Food-Delivery-system/assets/97883391/ca690a12-ad5a-4fee-b03b-2e6e17f8eae5)
    
   ii)
   click stop Button
+  
   ![image](https://github.com/Akash8292/Food-Delivery-system/assets/97883391/f39baa16-4101-4df4-bb5c-443adcc7c056)
