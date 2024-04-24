@@ -71,6 +71,7 @@ with menus and admin ui.The application is built using HTML, CSS, and JavaScript
  ## contributer
  
  * Akash kumar saw
+ * Ashutosh Dhumal
  * Jayesh chak
  * Aditay kumar
  * Sriram
